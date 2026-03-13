@@ -24,8 +24,10 @@ Atender à solicitação da executiva Renee de:
   Fornecedor e Preço Unitário
 
 ## Visualizações
-![Overview](print-geral.png)
-![Evolução de Preços](print-grafico-linhas.png)
+![Overview](Geral.png)
+![Evolução de Preços 2021](precos-2021.png)
+![Evolução de Preços 2022](precos-2022.png)
+![Evolução de Preços 2023](precos-2023.png)
 
 ## Como usar
 1. Baixe o arquivo `adventure-works-dashboard.pbix`

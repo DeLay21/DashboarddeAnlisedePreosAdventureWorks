@@ -17,6 +17,13 @@ Atender à solicitação da executiva Renee de:
 - Monitorar o preço unitário de cada produto por fornecedor
 - Detectar situações incomuns de preços (outliers)
 
+## Insights Encontrados
+- O fornecedor **Sadleab** apresentou preço elevado em 2022
+  nos produtos **Comfort** e **All Weather**, com valor de
+  **R$ 123,79** — significativamente acima da média dos 
+  demais fornecedores e anos, caracterizando uma anomalia
+  de preço conforme solicitado pela análise.
+
 ## Fonte de Dados
 - **Arquivo:** Adventure Works Inventory.xlsx
 - **Planilha:** Products
